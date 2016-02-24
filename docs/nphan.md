@@ -1,4 +1,4 @@
 ## nphan Bio
 - **Name:** nphan
-- **Occupation:** student
+- **Occupation:** git student
 - **Location:** Mountain View

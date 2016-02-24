@@ -1,5 +1,5 @@
 ## Gittify  Bio
 
 - **Name:** Gittify
-- **Occupation:** Developer
+- **Occupation:** S/W Developer
 - **Location:** San Francisco

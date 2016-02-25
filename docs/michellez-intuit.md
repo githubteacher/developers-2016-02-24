@@ -2,4 +2,4 @@
 - **Name:** Michelle
 - **Occupation:** Programmer
 - **Location:** Mountain View
-- **Favorite Vacation Spot:** Hawaii and Antarctica
+- **Favorite Vacation Spot:** Hawaii and Antarctica and Rainforests

@@ -2,4 +2,4 @@
 - **Name:** nphan
 - **Occupation:** git student
 - **Location:** Mountain View
-- **Favorite Location Spot:** Hawaii
+- **Favorite Location Spot:** Hawaii and Canada

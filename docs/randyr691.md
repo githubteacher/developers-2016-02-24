@@ -2,4 +2,4 @@
 - **Name:** Randy Robalewski
 - **Occupation:** Software Engineer
 - **Location:** Mountain View, CA
-- **Favorite Vacation Spot:** Home test
+- **Favorite Vacation Spot:** Home
